@@ -75,6 +75,7 @@ $ git clone https://github.com/Raxuis/simple-pong.git
 # Access
 $ cd simple-pong
 
+# Install the font in the fonts folder
 # Simply start live server
 ```
 
