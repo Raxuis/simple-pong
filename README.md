@@ -73,7 +73,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 $ git clone https://github.com/Raxuis/simple-pong.git
 
 # Access
-$ cd pong
+$ cd simple-pong
 
 # Simply start live server
 ```
