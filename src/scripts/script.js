@@ -1,3 +1,7 @@
+/* 
+Original code by: https://gist.github.com/straker/81b59eecf70da93af396f963596dfdc5 
+Upgraded by: https://github.com/Raxuis 
+*/
 
 const myCanvas = document.getElementById('myCanvas');
 const context = myCanvas.getContext('2d');
