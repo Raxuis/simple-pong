@@ -50,9 +50,9 @@ Here is a simple pong project.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Play;\
-:heavy_check_mark: Win;\
-:heavy_check_mark: PS : You can find some cheats;\
+:heavy_check_mark: Play\
+:heavy_check_mark: Win\
+:heavy_check_mark: PS : You can find some cheats
 
 ## :rocket: Technologies ##
 
